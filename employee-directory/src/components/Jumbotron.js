@@ -4,8 +4,8 @@ function Jumbotron() {
     return (
         <div className="jumbotron jumbotron-fluid" >
             <div className="container-fluid">
-
-                <p className="lead text-center text-white"></p>
+                <h1 className="text-center">Employee Directory</h1>
+                <p className="lead text-center">Find an employee, or sort by field </p>
                 <EmployeeContainer />
             </div>
         </div>

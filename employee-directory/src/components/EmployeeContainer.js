@@ -65,37 +65,37 @@ class EmployeeContainer extends Component {
                 },
                 {
                     label: 'First Name',
-                    field: 'firstname',
+                    field: 'firstName',
                     width: 150,
 
 
                 },
                 {
                     label: 'Last Name',
-                    field: 'lastname',
+                    field: 'lastName',
                     width: 150,
 
 
                 },
                 {
                     label: 'City',
-                    field: 'City',
+                    field: 'city',
                     width: 200,
 
                 },
                 {
-                    label: 'email',
+                    label: 'Email',
                     field: 'email',
                     width: 200,
 
                 },
                 {
-                    label: 'phone',
-                    field: 'phone',
+                    label: 'Phone',
+                    field: 'phoneNumber',
                     width: 200,
                 },
                 {
-                    label: 'cell',
+                    label: 'Cell',
                     field: 'cell',
                     width: 200,
                 }
