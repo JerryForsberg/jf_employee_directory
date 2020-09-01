@@ -5,8 +5,9 @@ import Jumbotron from "./components/Jumbotron";
 
 function App() {
   return (
-    <Jumbotron />
-    
+    <div>
+      <Jumbotron />
+    </div>
   );
 }
 

@@ -106,7 +106,7 @@ class EmployeeContainer extends Component {
 
         return (
             <div>
-
+                
                 < MDBDataTableV5 hover
                     entriesOptions={[10, 25]}
                     entries={10}
